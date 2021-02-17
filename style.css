@@ -1,0 +1,42 @@
+body{
+    font-family:'Special Elite', cursive;
+    background:rgb(0, 0, 0);
+}
+.header_div{
+    background:rgb(4, 255, 242);
+    color:rgb(255, 0, 0);
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background:rgb(255, 230, 0);
+    padding: 10px;
+    margin-top:15px;
+    border:3px solid rgb(158, 196, 194)
+}
+.main_div label{
+    background:rgb(247, 0, 255);
+    width:310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(18, 7, 121)
+}
+#camera{
+    border:2px #033d4e;    
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px pink;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18 rgb(194, 94, 94);
+    border:1 px solid rebeccapurple;
+}
+#result{
+    border:2px rgb(3, 61, 78);
+    width:310px;
+    height: 300px;
+    box-shadow:5px 5px 18px pink;
+}
