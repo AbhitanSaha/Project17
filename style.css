@@ -1,6 +1,7 @@
 body{
     font-family:'Special Elite', cursive;
     background:rgb(0, 0, 0);
+    font-family: 'Ballet', cursive;
 }
 .header_div{
     background:rgb(4, 255, 242);
@@ -39,4 +40,25 @@ body{
     width:310px;
     height: 300px;
     box-shadow:5px 5px 18px pink;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: rgb(6, 1, 44);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px turquoise;
+}
+.footer_div img{
+    width:70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(192, 157, 157);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(95, 48, 9);
+    line-height: 3;
+    text-align: center;
 }
