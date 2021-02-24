@@ -14,7 +14,8 @@ body{
     background:rgb(255, 230, 0);
     padding: 10px;
     margin-top:15px;
-    border:3px solid rgb(158, 196, 194)
+    border:3px solid rgb(158, 196, 194);
+    margin-left: 300px;
 }
 .main_div label{
     background:rgb(247, 0, 255);
@@ -37,6 +38,8 @@ body{
 }
 .footer_div{
     margin-bottom: 50px;
+    color: rgb(0, 240, 32);
+    margin-left: 300px;
 }
 .footer_div h4{
     background: rgb(6, 1, 44);
